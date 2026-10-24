@@ -1,0 +1,1 @@
+// Empty file to avoid redeclaration. Correct file is in com.example.campusstudyapp.adapter package.
